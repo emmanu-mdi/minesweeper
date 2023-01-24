@@ -11,6 +11,3 @@ Minesweeper is a game of logic where the player is presented with a field full o
 3. **Look around you** -> Check how many mines are around.
 4. **Prepare for battle** -> Implement the rules of the game.
 5. **Battle!** -> Bee a real sapper. Find all the mines.
-
-
-# minesweeper
